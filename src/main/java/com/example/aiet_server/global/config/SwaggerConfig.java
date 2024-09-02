@@ -17,8 +17,8 @@ public class SwaggerConfig {
 
     private Info apiInfo() {
         return new Info()
-                .title("Keep")
-                .description("Keep API")
+                .title("Aiet")
+                .description("Aiet API")
                 .version("0.0.1");
     }
 }
